@@ -6,7 +6,7 @@ paginate: 2 #6
 comments: true
 paginate_path: "/page/:num"
 
-baseurl: "rhtaich07.github.io/resume" # change to empty string ""
+baseurl: "rhtaich07.github.io" # change to empty string ""
 
 source:      source
 destination: _site
